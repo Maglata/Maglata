@@ -1,4 +1,4 @@
-### Heya 👋, I'm Stef
+## Heya 👋, I'm Stef
 
 I am just a guy who wants to make a nice game one day and is currently studying in University:)
 
