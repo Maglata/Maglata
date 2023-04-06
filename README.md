@@ -1,9 +1,9 @@
-# Heya 👋, I'm Stef
+# 👋 Heya, I'm Stef
 
 ### I am just a guy who wants to make a nice game one day and is currently studying in University :)
 
 - 🔭 I’m currently working on a unity game
-- 🌱 I’m currently learning: C, C#
+- 🌱 I’m currently learning: C, C#, HTML, CSS, JS
 - 🤔 I'm quite interested in learning Game Development(Unity or Unreal Engine)
 
 ### I am always looking for any fun and interesting projects that I can join and help with as much as I can so hit me up ;)
