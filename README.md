@@ -1,24 +1,13 @@
-# 👋 Heya, I'm Stef
+# 👋 Hey, I’m Stef
 
-### I am just a guy who wants to make an excellent game one day and is currently studying at University :)
+I’m a passionate **Game Developer** focused on creating engaging experiences through **Unity** and **C#**.
+### 🔧 Currently Working On:
+- Developing a **Tower Defense** game in Unity, focusing on gameplay mechanics, level design, and optimization.
 
-- 🔭 I’m currently working on a Unity game
-- 🌱 I’m currently learning: C#, MySQL, HTML, CSS, JavaScript
-- 🤔 I'm quite interested in learning Game Development(Unity or Unreal Engine)
+### 💼 Professional Background:
+- **Game Developer at Anakatech (2024 - Present)**: Developing games with **Cocos2d** and **TypeScript**.
+- **Unity Instructor at Unify (2024 - Present)**: Teaching **Unity** to aspiring developers, focusing on **game mechanics**, **UI**, and **optimization**.
+- **Previous Experience**: Developed games at **Elfshock** and **Saturday Morning Invasion**, primarily using **C#** and **Unity**.
 
-### I am always looking for any fun and exciting projects that I can join and help with as much as I can so hit me up ;)
-
-<!--
-**Maglata/Maglata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚠️ Portfolio Note:
+Most of my current work and portfolio pieces are not hosted on GitHub. However, I’m always eager to share projects and collaborate. Feel free to reach out to discuss my work or potential collaborations!
